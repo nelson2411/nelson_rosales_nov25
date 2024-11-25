@@ -1,2 +1,2 @@
-# add generic configuration for a html, css and js files
 
+Copyright (C) 2014 Free Software Foundation, Inc.
