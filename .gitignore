@@ -1,0 +1,3 @@
+# ignore all photoshop files
+*.psd
+/top_secret
